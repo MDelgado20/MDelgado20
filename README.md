@@ -13,7 +13,8 @@
   <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-- 🌱 I’m currently learning: AngularJs, Typescript
+<p>- 🌱 I’m currently learning: AngularJs, Typescript</p>
+
 
 ### Lenguage and Tool
 <p align="center">
