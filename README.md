@@ -1,5 +1,8 @@
 ## Hi there, I'm Maria 👋❤️
 
+
+- 🌱 I’m currently learning: AngularJs, Typescript
+
 <a href="https://twitter.com/mldd20">
   <img align="left" alt="Maria´s Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -13,7 +16,6 @@
   <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<p>- 🌱 I’m currently learning: AngularJs, Typescript</p>
 
 
 ### Lenguage and Tool
