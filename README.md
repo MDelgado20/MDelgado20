@@ -9,10 +9,13 @@
 <a href="https://www.instagram.com/marialdd20">
   <img align="left" alt="Maria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://github.com/MDelgado20">
+  <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 ![10168](https://user-images.githubusercontent.com/66137691/99893388-8925ec80-2c4d-11eb-8646-6b880c2c131b.jpg)
 
-
+###
 <!--
 **MDelgado20/MDelgado20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
