@@ -27,7 +27,7 @@
 </p>
 
 <br>
-- 🌱 I’m currently learning: <b>AngularJs, Typescript</b>
+- 🌱 I’m currently learning: <b>AngularJs, Typescript</b><br>
 - 📫 How to reach me: <b>mariadelgado201998@outlook.com</b>
 
 
