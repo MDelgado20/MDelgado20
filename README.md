@@ -1,6 +1,7 @@
-## Hi there, I'm Maria 👋❤️
+# Hi there, I'm Maria 👋
+## I'm Software developer❤️
 
-<p align="center>
+<br>
   <a href="https://twitter.com/mldd20">
     <img align="left" alt="Maria´s Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
@@ -13,7 +14,7 @@
   <a href="https://github.com/MDelgado20">
     <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-                               </p>
+                            
 
 ![10168](https://user-images.githubusercontent.com/66137691/99893388-8925ec80-2c4d-11eb-8646-6b880c2c131b.jpg)
 
