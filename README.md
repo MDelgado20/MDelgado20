@@ -28,7 +28,7 @@
 
 <br>
 - 🌱 I’m currently learning: <b>AngularJs, Typescript</b><br>
-- 📫 How to reach me: <b>mariadelgado201998@outlook.com</b><br>
+- 📫 How to reach me: <b>maria.delgado2098@gmail.com</b>
 
 
 
