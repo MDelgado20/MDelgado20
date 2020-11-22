@@ -6,9 +6,6 @@
   <a href="www.linkedin.com/in/maría-delgado-20">
     <img align="left" alt="Maria's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/marialdd20">
-    <img align="left" alt="Maria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
   <a href="https://github.com/MDelgado20">
     <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
