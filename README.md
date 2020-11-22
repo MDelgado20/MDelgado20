@@ -1,17 +1,19 @@
 ## Hi there, I'm Maria 👋❤️
 
-<a href="https://twitter.com/mldd20">
-  <img align="left" alt="Maria´s Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="www.linkedin.com/in/maría-delgado-20">
-  <img align="left" alt="Maria's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/marialdd20">
-  <img align="left" alt="Maria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://github.com/MDelgado20">
-  <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+<p align="center>
+  <a href="https://twitter.com/mldd20">
+    <img align="left" alt="Maria´s Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+  <a href="www.linkedin.com/in/maría-delgado-20">
+    <img align="left" alt="Maria's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://www.instagram.com/marialdd20">
+    <img align="left" alt="Maria's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  <a href="https://github.com/MDelgado20">
+    <img align="left" alt="Maria's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+                               </p>
 
 ![10168](https://user-images.githubusercontent.com/66137691/99893388-8925ec80-2c4d-11eb-8646-6b880c2c131b.jpg)
 
