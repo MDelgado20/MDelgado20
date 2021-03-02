@@ -14,17 +14,6 @@
 ![10168](https://user-images.githubusercontent.com/66137691/99893388-8925ec80-2c4d-11eb-8646-6b880c2c131b.jpg)
 
 
-### Lenguage and Tool
-<p align="center">
-
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
-<img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-</p>
-
 <br>
 - 🌱 I’m currently learning: <b>AngularJs, Typescript</b><br>
 - 📫 How to reach me: <b>maria.delgado2098@gmail.com</b>
